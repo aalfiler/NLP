@@ -1,9 +1,15 @@
 # Unit 13 | NLP - Tales from the Crypto
 
-### Sentiment Analysis
+### Sentiment Analysis:
 
->1.) Which coin had the highest mean positive score?
+> Q: Which coin had the highest mean positive score?
 
->2.) Which coin had the highest negative score?
+    A: BTC (0.071) vs ETH (0.051)
 
->3.) Which coin had the highest positive score?
+> Q: Which coin had the highest compound score?
+
+    A: BTC (0.921) vs ETH (0.709) 
+
+> Q. Which coin had the highest positive score?
+
+    A: BTC (0.353) vs ETH (0.144)
